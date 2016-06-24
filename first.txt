@@ -1,3 +1,6 @@
 This is the first file of Github training
 
-I am writing here for the second time.
+
+
+I am writting here for the last time. I deleted the
+previous line.
